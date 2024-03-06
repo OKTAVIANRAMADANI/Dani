@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<section>
+    <h1>PERKEMBANGAN HAM DI DUNIA INTERNASIONAL MAUPUN DI INDONESIA</h1>
+    <p>Hak asasi manusia adalah sebuah konsep hukum dan normatif yang menyatakan bahwa manusia
+        memiliki hak yang melekat pada dirinyakarena ia adalah seorang manusia.Hak asasi manusia berlaku kapanpun,di manapun
+        ,dan kepada siapapun, sehingga sifatnya universal.. HAM pada prinsipnya tidak dapat dicabut. Hak asasi manusia juga tidak dapat dibagi-bagi, saling berhubungan, dan saling bergantung. 
+        Hak asasi manusia biasanya dialamatkan kepada negara, atau dalam kata lain, negaralah yang mengemban kewajiban untuk menghormati, melindungi, 
+        dan memenuhi hak asasi manusia, termasuk dengan mencegah dan menindaklanjuti pelanggaran yang dilakukan oleh swasta. Dalam terminologi modern, hak asasi manusia dapat digolongkan menjadi hak sipil politik yang berkenaan dengan kebebasan sipil (misalnya hak untuk hidup, hak untuk tidak disiksa,
+         dan kebebasan berpendapat), serta hak ekonomi, sosial dan budaya yang berkaitan dengan akses ke barang publik (seperti hak untuk memperoleh pendidikan yang layak, hak atas kesehatan, atau hak atas perumahan).
+    </p>
+</section>
+
+<h1>Perkembangan HAM di indonesia</h1>
+<article>
+    <h2>Periode sebelum Kemerdekaan (1908-1945)</h2>
+    <p>Pemikiran HAM pada periode ini menekankan wacana untuk merdeka (Self Determination),
+         hak kebebasan untuk berserikat melalui organisasi politik mulai didirikan,
+          serta hak kebebasan untuk menyampaikan pendapat terutama di Parlemen.</p>
+</article>
+
+<article>
+    <h2><li>Periode setelah kemerdekaan (1945-sekarang)</li></h2>
+    <p>Perdebatan tentang HAM berlanjut sampai periode paska 
+        kemerdekaan:
+    </p>
+</article>
+
+<article>
+    <h2>Periode 1945-1950</h2>
+    <p>Pemikiran HAM pada periode ini menekankan wacana untuk merdeka (Self Determination),
+         hak kebebasan untuk berserikat melalui organisasi politik mulai didirikan,
+          serta hak kebebasan untuk menyampaikan pendapat terutama di Parlemen.</p>
+</article>
+
+</body>
+<body>
+<style>
+    .all-browsers {
+        margin: 0;
+        padding: 5px;
+        background-color: lightgray;
+    }
+    .all-browsers > h1, .browser {
+        margin: 10px;
+        padding: 5px;
+    }
+    .browser {
+        background: white;
+    }
+    .browser > h2, p {
+        margin: 4px;
+        font-size: 90%;
+    }
+</style>
+</body>
+<body>
+
+    <article class="all-browsers">
+        <h1>Analisis</h1>
+        <article class="browser">
+            <h2>Hak asasi manusia</h2>
+            <p>Hak Asasi Manusia di dunia Internasional sedang mengalami penurunan atau kemunduran,
+                 banyak negara-negara yang sedang mengalami kekacauan terutama tentang penegakan HAM.
+                  Banyaknya terjadi pemberontakan-pemberontakan yang dilakukan oleh masa. Negara Palestina yang masyarakatnya belum mendapat Hak Asasi Manusia 
+                  (terutama hak untuk hidup) karena penyerangan-penyerangan yang dilakukan oleh zionis Israel,dan masih banyak negara-negara yang mengalami hal serupa tentang penegakan HAM.</p>
+
+                </article>
+</article>
+<body>
+
+<footer>
+    <p>SEMBILAN BINTANG</p>
+    <p><a
+href="mailto:info@sembilanbintang.co.id">info@sembilanbintang.co.id</a>
+</p>
+</footer>
+
+</body>
+<body>
+
+<nav>
+    <a href="/html/">HTML</a> |
+    <a href="/css/">CSS</a> |
+    <a href="/js/">JavaScript</a> |
+    <a href="/jquery/">jQuery</a> |
+</nav>
+</body>
+</html>
