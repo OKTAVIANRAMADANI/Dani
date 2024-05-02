@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+    <style>
+        img {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            overflow: hidden;
+            margin: auto;
+            display: flex;
+        }
+        .border {
+            border: solid;
+            background-color: rgb(88, 102, 99);
+            border-radius: 10px;
+            margin: auto;
+        }
+    </style>
+</head>
+<html>
+<body>
+    <div class="border">
+        <img src="Fotosaya.jpg" alt="raawwr">
+        <h1 style="text-align: center;">Oktavian Ramadani</h1>
+        <h1 style="text-align: center;">1123102118</h1>
+    </div>
+</body>
+</html>
